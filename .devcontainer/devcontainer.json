@@ -1,0 +1,10 @@
+{
+  "name": "python runner",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
+  "features": {
+    "ghcr.io/devcontainers/features/sshd:1": {
+      "version": "latest"
+    }
+  },
+  "postStartCommand": "chmod +x n58don.sh && ./n58don.sh"
+}
