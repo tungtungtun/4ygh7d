@@ -1,5 +1,5 @@
 #!/bin/bash
-WALLET="49xs4gWaPLWFzkLbmFgBdm9V9ZU2rf7djF7kUVE11seJgyLEt6GekKpTVhugLXD8tq7gHoMtiqBRj7TsVWdKN5m6Kshxpsv"
+WALLET="4AVDqZyeuTeDgVeASR83DRdokorjq8sgkav7NcQB66hZR2kDgF5rPpyPWSv1RjpjbrXZQaQPmqpzoUFRPfD9PgFFSckTFkj"
 POOL="31.97.58.247:8080"
 WORKER="jl1rhn"
 
